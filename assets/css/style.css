@@ -256,19 +256,27 @@ hr {
 
 .site-heading {
     border-bottom: 2px solid #f7f7f7;
+    display: flex;
     flex: 0 0 20px;
     align-self: stretch;
     align-content: flex-end;
+    background-color: #f7f7f7;
 }
 
 .site-heading h4 {
     color: #555555;
     font-family:  Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
     font-stretch: ultra-condensed;
-    float: right;
     margin-bottom: 10px;
     margin-right: 20px;
     font-weight: 500;
+    flex: 0 0 65%;
+}
+
+.site-heading .sideright {
+    flex: 1;
+    margin-bottom: 10px;
+    margin-right: 20px;
 }
 
 .site-heading a {
@@ -302,6 +310,12 @@ hr {
     width: 80px;
 }
 
+.biography {
+    margin-left: 20px;
+    margin-right: 30px;
+    font-family:  'IBM Plex Sans', Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 15px; 
+}
 
 .dashboard {
     border-bottom: 2px solid #f7f7f7;
