@@ -12,8 +12,8 @@ I think it's fair to have commitments with no specified end date, but they must 
 
 So I think a good commitment should have:
 
-- An [[operationalized]] description of the commitment. What counts, what do specific terms mean, how do I interpret this commitment.
-- Conditions I make the commitment under. These are background assumptions I have, conditions which, if not true, would let me reevaluate the commitment.
+- An [[operationalized]] description of the commitment: What counts, what do specific terms mean, how do I interpret this commitment.
+- Conditions I make the commitment under: These are background assumptions I have, conditions which, if not true, would let me reevaluate the commitment.
 - Breach penalties: If I fail to uphold the commitment, what is the penalty? Note: This shouldn't substitute for repuational cost. That's not for me to decide, that's for others to decide, and I think a failure mode would be if I start substituting in weak sauce penalties thinking they'd prevent real damage to the trust others have in me.
 - Reevaluate time: When to look back at my commitment and decide if it's still working for me.
 
