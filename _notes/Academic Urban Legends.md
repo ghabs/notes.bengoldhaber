@@ -2,7 +2,7 @@
 tags: academic research
 ---
 
-An essay on the prevalance of rumors and urban legends in academic writing.
+An essay on the prevalance of rumors and urban legends in academic writing.c
 
 - Categories:: [[Academic Articles]]
 - Author:: Ole Bjørn Rekdal
