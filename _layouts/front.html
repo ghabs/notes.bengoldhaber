@@ -1,0 +1,103 @@
+---
+layout: front
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta content="Knowledge Continuum" property="og:site_name"/>
+    <meta content="A non-linear thread of important ideas weaved together to explore and understand the fabric of knowledge." property="og:description">
+    <meta content="{{ site.url }}/about/" property="article:author">
+
+    {%- if page.title -%}
+    <meta content="{{ page.title }}" property="og:title">
+    <meta content="article" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {%- else -%}
+    <meta content="website" property="og:type">
+    <meta content="{{ site.url }}{{ page.url }}" property="og:url">
+    {%- endif -%}
+
+    <title>{{site.title}}</title>
+
+    <link rel="canonical" href="{{site.url}}{{page.url}}"/>
+    <link rel="apple-touch-icon" href="{{site.profile_pic}}">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+
+    <link rel="icon" href="{{site.favicon}}" type="image/png" sizes="16x16"/>
+    <link href="/assets/css/style.css" rel="stylesheet" media="all" class="default"/>
+
+    <!--[if IE]>
+        <link href="/assets/css/ie-target.css" rel="stylesheet" type="text/css"/>
+    <![endif]-->
+    <!--<link href="/assets/css/prism.css" rel="stylesheet" />-->
+    <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
+</head>
+<body>
+<div class="wrapper">
+  {%- include header.html -%}
+
+<div class="home">
+
+  {{ content }}
+
+  <div class="section group">
+    <div class="col span_1_of_3">
+      {%- if site.notes.size > 0 -%}
+      <h2>Recommended</h2>
+      <ul class="post-list">
+        {%- for note in site.posts -%}
+        {% if note.tags contains "recommended"%}
+        <li>
+          <a href="{{ post.url | relative_url }}">
+            {{ note.title | escape }}
+          </a>
+          {%- if site.show_excerpts -%}
+          {{ note.excerpt }}
+          {%- endif -%}
+        </li>
+        {% endif %}
+        {%- endfor -%}
+      </ul>
+      {%- endif -%}
+    </div>
+    <div class="col span_1_of_3">
+      <h2>Posts</h2>
+      <ul class="post-list">
+        {%- for post in site.posts limit:5 %}
+          <li>
+            <a href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </li>
+          {%- endfor -%}
+          <div class="more_posts">
+            <a href="/blog">more --></a>
+          </div>
+        </ul>
+    </div>
+    <div class="col span_1_of_3">
+      {%- if site.notes.size > 0 -%}
+      <h2>Scratchpad</h2>
+      <ul class="post-list">
+        {%- for note in site.notes limit:5 -%}
+    
+        <li><a href="{{ note.url }}">{{ note.title }}</a>
+          {%- if site.show_excerpts -%}
+          {{ note.excerpt }}
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+    
+        <div class="more_posts">
+          <a href="/blog">more --></a>
+        </div>
+      </ul>
+      {%- endif -%}
+    </div>
+  </div>  
+</div>
+{%- include footer.html -%}
+</div>
+
+</body>
