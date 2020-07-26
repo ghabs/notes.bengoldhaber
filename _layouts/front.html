@@ -34,11 +34,10 @@ layout: front
     <link rel="alternate" type="application/rss+xml" href="{{ site.url }}/feed.xml">
 </head>
 <body>
-<div class="wrapper">
-  {%- include header.html -%}
-
-<div class="home">
-
+  <div class="container">                    
+    <div class = "box">
+      {%- include header.html -%}
+<main>
   {{ content }}
 
   <div class="section group">
@@ -46,14 +45,14 @@ layout: front
       {%- if site.notes.size > 0 -%}
       <h2>Recommended</h2>
       <ul class="post-list">
-        {%- for note in site.posts -%}
-        {% if note.tags contains "recommended"%}
+        {%- for post in site.posts -%}
+        {% if post.tags contains "recommended"%}
         <li>
           <a href="{{ post.url | relative_url }}">
-            {{ note.title | escape }}
+            {{ post.title | escape }}
           </a>
           {%- if site.show_excerpts -%}
-          {{ note.excerpt }}
+          {{ post.excerpt }}
           {%- endif -%}
         </li>
         {% endif %}
@@ -72,7 +71,7 @@ layout: front
           </li>
           {%- endfor -%}
           <div class="more_posts">
-            <a href="/blog">more --></a>
+            <a href="/posts">more --></a>
           </div>
         </ul>
     </div>
@@ -90,14 +89,15 @@ layout: front
         {%- endfor -%}
     
         <div class="more_posts">
-          <a href="/blog">more --></a>
+          <a href="/notes">more --></a>
         </div>
       </ul>
       {%- endif -%}
     </div>
-  </div>  
+  </div>
+</main>
+
 </div>
-{%- include footer.html -%}
 </div>
 
 </body>
