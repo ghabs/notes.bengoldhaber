@@ -8,7 +8,6 @@ An essay on the prevalance of rumors and urban legends in academic writing.
 | Author     |  Ole Bjørn Rekdal | 
 | Source     |  [Source](https://journals.sagepub.com/doi/full/10.1177/0306312714535679) |
 | Related to |  [[Reproducibility]] [[Science]]  |
-| Status |  #finished |
 
 In the past two decades it has become much easier to obtain the cited sources within minutes or seconds. It's now easy to read an academic paper along with the sources it references. This has made it easier to identify cases of scientific misconduct/sloppiness. 
 
