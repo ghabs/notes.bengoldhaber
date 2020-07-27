@@ -5,10 +5,10 @@
 layout: front
 permalink: /
 ---
-Hi! This is the website of Ben Goldhaber. I made it in order to:
+This is the website of Ben Goldhaber. I made it in order to:
 
 - Provide general information about myself.
 - Store and display my essays and projects.
 - Ensure I and I alone have the much sought after bengoldhaber domain name.
 
-For infrequent updates subscribe to my newsletter.
+For infrequent updates [subscribe to my newsletter](https://tinyletter.com/BenGoldhaber).
