@@ -40,6 +40,9 @@ layout: stylesheet
     width:80%;
 }
 
+.more_posts {
+    text-align: right;
+}
 
 /******************************************************
  *             PREDEFINE TAGS CSS                     *
