@@ -1,11 +1,11 @@
 title: Ben Goldhaber
 name: Ben Goldhaber
-user_description: Programmer (Interested in Philosophy and Math)
+user_description: User Description TBD (but I'm working on it)
 notes_url: "https://notes.bengoldhaber.com"
 profile_pic: /assets/img/profile.png
 copyright_name: John Doe
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://notes.bengoldhaber.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bengoldhaber.com" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: utf-8
 
 # Build settings
