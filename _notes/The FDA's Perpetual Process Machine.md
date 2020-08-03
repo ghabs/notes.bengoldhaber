@@ -12,7 +12,7 @@ They rejected an application from one team that spend hundreds of hours on it be
 
 The [[FDA]] has persecuted groups that 'misused' tests.
 - The Seattle lab that first identified community transfer within the US was barred from running [[Coronavirus]] tests because they didn't have the correct designation with the [[FDA]]. When they did so anyway the [[FDA]] instructed them to stop, despite the obvious value of the information.
-- Groups that could test for the [[Coronavirus]] were told they had to wait until they received a clinical lab designation, a process that could take weeks. This is even after the [[FDA]] said they would shorten and expand the certification process.
+- Groups that could test for the [[Coronavirus]] were told they had to wait until they received a clinical lab designation, a process that could take weeks or months. This is even after the [[FDA]] said they would shorten and expand the certification process.
 
 [[People underestimate the chilling effect that uncertainty has on business investment decisions. ::rmn]]
 
