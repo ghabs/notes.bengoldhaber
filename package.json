@@ -1,0 +1,10 @@
+{
+    "husky": {
+        "hooks": {
+            "pre-commit": "lint-staged && pretty-quick --staged"
+        }
+    },
+    "lint-staged":{
+        "*.md":"textlint"
+    }
+}
