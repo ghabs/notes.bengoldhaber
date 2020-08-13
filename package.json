@@ -4,7 +4,12 @@
             "pre-commit": "lint-staged && pretty-quick --staged"
         }
     },
-    "lint-staged":{
-        "*.md":"textlint"
+    "lint-staged": {
+        "*.md": "textlint"
+    },
+    "devDependencies": {
+        "husky": "^4.2.5",
+        "lint-staged": "^10.2.11",
+        "textlint": "^11.7.6"
     }
 }
