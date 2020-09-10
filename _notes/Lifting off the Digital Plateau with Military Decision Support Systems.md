@@ -27,6 +27,6 @@ In the end DeepGreen was never fully tried - A new commander at DARPA defunded c
 
 DARPA had researched other [[Decision Support Systems]], such as the Real-time Adversarial Intelligence and Decision-making (RAID) and the TIGER system. RAID, which proposed COAs, beat human selected COAs in a competition, but only in lab conditions. The author concludes that military Decision Support Systems still face fundamental challenges of information quality, robustness, and speed of computation.
 
-But... I'm not so sure. Given the success of AlphaZero and similar gameplaying bots it seems to me that a DNN could "solve" existing wargames, and that includes in non-lab conditions (bad information, domain shifts, etc.). Once you have a functioning neural net that could do that, you can optimize it for size and speed (ex. prune it or train a neural net to mimic the larger policy). 
+But... I'm not so sure. Given the success of AlphaZero and similar gameplaying bots it seems to me that a DNN could "solve" existing wargames, and that includes in non-lab conditions (bad information, domain shifts, etc.). Once you have a functioning neural net that could do that, you can optimize it for size and speed (ex. prune it or train a neural net to mimic the larger policy) such that its functional in the field.
 
 
