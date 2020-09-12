@@ -2,7 +2,7 @@
 tags: decisions tools-for-thought
 ---
 | Categories | #Paper |  
-|Source | 
+|Source | https://archive.vn/wip/efNwb
 
 An overview of the history, design, and eventual failure of DARPA's futuristic command and control system, Deep Green. [[DeepGreen]] was a [[DARPA]] project attempting to bring simulations into the realm of realtime military operations. It was a "full stack" system for use by in the field commanders to explore potential outcomes of courses of action (COAs). 
 It had three separate modules:
