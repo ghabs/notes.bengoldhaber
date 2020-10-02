@@ -1,7 +1,7 @@
 {
     "husky": {
         "hooks": {
-            "pre-commit": "lint-staged && pretty-quick --staged"
+            "pre-commit": "lint-staged"
         }
     },
     "lint-staged": {
@@ -11,5 +11,9 @@
         "husky": "^4.2.5",
         "lint-staged": "^10.2.11",
         "textlint": "^11.7.6"
+    },
+    "dependencies": {
+        "textlint-rule-sentence-length": "^2.2.0",
+        "textlint-rule-write-good": "^1.6.2"
     }
 }

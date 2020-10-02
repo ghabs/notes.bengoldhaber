@@ -1,7 +1,8 @@
 {
     "rules": {
         "sentence-length": {
-            "max": 100
-        }
+            "max": 200
+        },
+        "write-good":{}
     }
 }

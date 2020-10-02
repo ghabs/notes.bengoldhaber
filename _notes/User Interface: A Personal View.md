@@ -18,8 +18,11 @@ tags: strategies expertise
     - Mentalities can "seize control" in specific contexts.
 
 - User interfaces are intertwined with learning, and learning takes place best in an embedded environment.
+
 - Pioneers of environment learning [[context]]
     - Inner Game of Tennis
     - Montessori Method
+
 - Doing with Images makes Symbols
+
 - The user interface design will be the critical factor in communicating with other people and other Agents. Reminds me of the [distill essay from Michael Nielsen on Tools for Thought](https://distill.pub/2017/aia/).
