@@ -1,5 +1,6 @@
 ---
 tags: strategies expertise
+date: 2020-10-01
 ---
 
 | Author    |  [[Alan Kay]] | 
