@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Vignettes
-tags: ai fiction
+tags: ai fiction recommended
 ---
 
 It's difficult to imagine what the world would look like if we do achieve some extra-ordinary AI tech. For instance when we say AI in the next ten years will be able to drive a truck cross-country, what does that really imply about the state of the world? It might mean that there's mass unemployment because a steady job has been automated, or it might mean greater material abundance as costs for transport are driven down.
