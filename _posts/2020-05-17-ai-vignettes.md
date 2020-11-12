@@ -12,8 +12,8 @@ I think it's a useful exercise because it makes explicit all the hidden assumpti
 
 I participated in a writing workshop with [AI Impacts](https://aiimpacts.org/) where we spent timeboxed one hour sessions writing vignettes about the possible futures of AI. The goal was to create concrete visualizations of things like CAIS, slow takeoff, fast takeoff, decisive strategic advantage, etc. I created two short stories:
 
-- [Skin Deep](https://bengoldhaber.com/essays/skin-deep/)
-- [Terms of Service](https://bengoldhaber.com/essays/tos/)
+- [Skin Deep](https://bengoldhaber.com/posts/skin-deep/)
+- [Terms of Service](https://bengoldhaber.com/posts/tos/)
 
 I don't think either will be wining a Hugo, but I quite enjoyed the experience and I do think I gained something valuable from trying to **actually** visualize and conceive of what dramatic development in AI could look like (even with the entertainment bias I added). I don't think that this type of fiction writing should be compared to rigorous forecasts - it serves a different purpose, and it would be bad if stories - even if they're smart stories, replaced more formalized models. Rather I think it's a good way to get an intuitive feel for the models. An additional approach, that Daniel Kojokatjlo came up with, is generating random parameters for a model of technology development, and then post-hoc explaining in fictious prose how that trend happened
 
