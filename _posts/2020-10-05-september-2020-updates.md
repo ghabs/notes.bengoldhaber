@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: September 2020 Updates
