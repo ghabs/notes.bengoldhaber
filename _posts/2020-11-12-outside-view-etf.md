@@ -11,19 +11,21 @@ However, I think they are missing out on a potentially large number of users bec
 - Requires specialized expertise to understand the nuances: There are many ways that a specific question can resolve in unexpected ways - an experienced forecaster knows how to "lawyer" a question and evaluate edge cases
 - Boring: There are many areas that I care about and am invested in that I don't necessarily want to dig into specific details. For instance, Foretell is a competition forecasting China and AI - I have high level thoughts on the area, but I don't really want to spend my free time compiling publication rates of Chinese researches.
 
-Often I want to be able to bet my general attitude about a question or series of questions, and get feedback on it's calibration, without having to investigate the specifics of a question.
+I want to be able to bet my general attitude about a question or series of questions, and get feedback on its calibration, without getting bogged down in specifics.
 
-In essence I'd like to predict on a basket of questions, like an ETF, that represents my models. For instance if I'm a techno-optimist, I'd like to register a prediction on the topic area of self-driving cars, using a generally optimistic model. I would "buy" a collection of optimistic forecasts on a series of questions that are tied to self-driving cars. 
+In essence I want to predict on a basket of questions, like an ETF, that represents my views. For instance if I'm a techno-optimist, I'd like to register a prediction on the topic area of self-driving cars, using a generally optimistic model. I would "buy" a collection of optimistic forecasts on a series of self-driving car questions. 
 
 ## Structure
 
 <iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/9HBqeWEE87yvJsup27x95M"></iframe>
 
-Fund managers assemble a basket of questions that will reflect a specific domain.
+To start, fund managers assemble a basket of questions that will reflect a specific domain.
 
-They express a theme for the fund - aka techno-optimism - and register predictions that represent that view. Then everyone who is part of their fund can forecast on the forecasts, which copies and transforms the underlying predictions. 1 is exactly the point of view of the fund, 0.5 would move the prediction to the midpoint, and 0 would sell the etf, inverting the predictions.
+They express a theme for the fund - aka techno-optimism - and register predictions that represent that view. They ensure the predictions take into account edge cases and dig into specifics of the questions.
 
-In forecasting aggregator competitions the fund manager is compensated by bringing more forecasters into the market, which increases the payout for being right (or potentially through some percentage of profits)
+Once the fund is published others can 'buy-in' and forecast on the forecasts, which copies and transforms the underlying predictions. The user would forecast a scalar - 1 is exactly the point of view of the fund, 0.5 would move the prediction to the midpoint, and 0 would sell the etf, inverting the predictions.
+
+The fund manager is compensated by bringing more forecasters into the market, which increases the payout for being right (or potentially through some percentage of profits)
 
 Example "funds":
 
