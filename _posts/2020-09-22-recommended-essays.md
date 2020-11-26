@@ -12,7 +12,7 @@ This is an in-progress collection of some of my favorite online essays.
 
 - [Inadequate Equilibria](https://equilibriabook.com/toc/)
 
-- [Humans are not automatically strategic][https://archive.vn/Un1UD]
+- [Humans are not automatically strategic](https://archive.vn/Un1UD)
 
 - [Letters from Utopia](https://www.nickbostrom.com/utopia.html)
 
