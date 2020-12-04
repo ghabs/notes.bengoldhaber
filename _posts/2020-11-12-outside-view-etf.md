@@ -33,10 +33,6 @@ Example "funds":
 - Cynicism fund: What would the most cynical person in the world forecast on a set of questions?
 - Momentum fund: Maybe there are strong "follow the crowd" effects on these sites where you could profit by quickly seeing which direction the crowd is forecasting and registering a prediction with them.
 
-MVP:
-
-I created a colab notebook where I registered predictions on a collection of ML/AI questions from a perspective that the field of AI will soon go through another AI winter. If you sign in with your metaculus account you can use those same forecasts or apply a transformation representing your confidence in my forecast (thanks to the Ought team for releasing the ergo library that made this easy to do!)
-
 
 ## Is this good?
 Outside of whether this will work, there's the question of 'should this work'? Perhaps the reason forecasting competitions are effective is they weed out casual users who aren't willing to go through the effort of researching each question, and by introducing etfs we will make them less accurate.
