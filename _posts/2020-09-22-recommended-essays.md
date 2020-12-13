@@ -8,6 +8,8 @@ This is an in-progress collection of some of my favorite online essays.
 
 - [SSC Gives a Graduation Speech](https://archive.vn/NjBEt)
 
+- [Solitude and Leadership](https://archive.vn/bPf6H)
+
 - [Geeks, MOPs, and Sociopaths](https://archive.vn/i32Qi)
 
 - [Inadequate Equilibria](https://equilibriabook.com/toc/)
