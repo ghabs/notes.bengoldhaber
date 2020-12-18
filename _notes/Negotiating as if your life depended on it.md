@@ -1,0 +1,67 @@
+---
+tags: book negotiating
+---
+
+- Author:: Chris Voss
+
+## Notes
+- It's interesting to see how much overlap there is between Circling and hostage negotiation.
+- The right to say no, the right to veto, is crucial. People will fight way longer in a negotiation to preserve their right to say no. For instance if a hostage negotiator comes in and demands surrender, it creates a longer standoff. Giving them the right to say no, to preserve their [[Sovereignty]], is important. 
+- Starting with no - for instance calmly stating no, lets them hear it and opens up the door for them to say it. Counterintuitively it can be very helpful.
+- Train yourself to hear no as other than final. Reframe it as:
+    - I am not yet ready
+    - You're making me feel uncomfortable
+    - I don't understand
+    - I don't think I can afford it
+    - I want something else
+    - I need more info
+    - I want to talk with someone else.
+- Ask solution based questions - "what about this doesn't work for you".
+- Yes is not always Yes. Yes's can be "Counterfeit, Confirmation, or Commitment".
+    - Commitment Yes's are the real deal
+    - Counterfeit Yes's are the type of yes where they're saying something to get you to go away and stop bothering them, often because the person they are saying it to has their ego in the way
+- People are driven by the need to feel safe and secure, and the need to feel in control. Getting them to yes is a matter of working with them through their perspective, so they stay in control.
+- Gun for a yes off the bat leaves people defensive, wary, and skittish.
+- Letting them stay in control - by asking "what do you want me to do" - is effective, especially paired with letting them say "no" at the start as they're also making the decisions.
+- The words you want to hear are "That's right", not yes.
+- "that's right" can be the start of an emotional release. I
+- Techniques for active listening:
+    - Effective Pauses
+    - Mirroring
+    - Labeling
+    - Paraphrase
+    - Summarize
+- You're right is worse than that's right, because they're not owning the idea. It seems similar to the ideas of owning my experience and [[Enacted Experiences]].
+- The author thinks compromise is a terrible idea, because it's playing it safe and representative of a a fear and a desire to avoid pain, in particular ego pain. Creative solutions are preceded by risk, annoyance, confusion, and conflict - never split the difference.
+- Mind the deadline
+    - Know your deadline, know theres. When a negotiation is over for one side, it's over for the others as well.
+- Notice if you're verbally flexing and trying to get others to see things your way, instead of understanding the other
+- Negotiation as an information-gathering process that vests your counterpart in an outcome that serves you.
+- Ask open ended, calibrated questions that have the other guy pause and think about how to solve the problem. Directional but not aggressive/something to be attacked.
+    - "How am I supposed to do that"
+    - "What about this is important to you?"
+    - "What is it that brought us into this situation?"
+    - "How would you like me to proceed?"
+- It has elements of [[Double Crux]] in it too. You're trying to genuinely understand the problems the other person has  - like asking "why he felt it was so important to leave" and understanding their model and trying to address it.
+- Best not to go chin-to-chin with aggressiveness - use "what" and "how" to dodge and weave, to use the energy to bring them into the irhgt position.
+- Bargaining Styles
+    - Many feel uncomfortable with the idea of bargaining bargaining, the actual back and forth process and the holding my ground bit, a fear of overreaction.
+    - Different types are the Analyst, Accommodator, Assertive.
+- Be prepared to take a punch - experienced negotiators lead with a ridiculous offer, an extreme anchor. 
+    - The [[mindset]] to adopt is that I am relentlessly gathering information about the other person.
+- Ackerman model for bargaining
+    - Set the target price (the goal)
+    - Set your first offer at 65% of the target price 
+        - It's an extreme anchor, a big slap in the face.
+    - Calculate three raises of decreasing increments, 85%, 95%, and 100%
+        - Drop these in sparingly
+    - Use empathy and different ways of saying no to get the other side to counter before you increase the offer
+    - When calculating final amount, use precise nonround number
+    - On final number, throw in a non-monetary item - that you dont want - to show you're at your limit.
+- The flow of a negotiation is moving from rapport, labeling, and calibration to brass tacks bargaining.
+- The idea of black swans in negotiation is that there is information that will break the frame of reference completely. Finding and acting on this information is an important [[mindset]] because it moves us from a one-dimensional move-countermove game to a 3d game.
+- "black swans" in the context of negotiation are leverage multiplies.
+    - Positive leverage - remember that if someone offers you money it's because they want something, you have the leverage to hold/withold.
+    - Negative leverage - ability to make the other suffer. It's knowledge of what they care about, their audience and status, etc.
+        - Be very careful, because overplayed it can come across as taking away someones autonomy and sovereignty which many will die to defend.
+    - Normative leverage - using the other parties norms and standards to advance your position. You can just ask what a person believes and openly listening.
