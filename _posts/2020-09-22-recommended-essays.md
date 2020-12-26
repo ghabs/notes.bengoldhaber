@@ -6,6 +6,8 @@ tags: recommended
 
 This is an in-progress collection of some of my favorite online essays.
 
+- [You and your research](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+
 - [SSC Gives a Graduation Speech](https://archive.vn/NjBEt)
 
 - [Solitude and Leadership](https://archive.vn/bPf6H)
