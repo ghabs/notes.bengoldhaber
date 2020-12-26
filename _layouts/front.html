@@ -77,7 +77,7 @@ layout: front
     </div>
     <div class="col span_1_of_3">
       {%- if site.notes.size > 0 -%}
-      <h2>Scratchpad</h2>
+      <h2>Memex</h2>
       <ul class="post-list">
         {% assign notes = site.notes | sample:5 %}
         {%- for note in notes -%}

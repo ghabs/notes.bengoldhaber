@@ -60,6 +60,7 @@ footer a {
 
 footer p {
     transition: all 0.4s ease 0s;
+    padding: 10px;
 }
 
 footer p:hover {
