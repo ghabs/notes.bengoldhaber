@@ -126,6 +126,12 @@ header {
     display: flex;
     flex-direction: column;
 }
+@media (max-width: 500px) 
+{
+header {
+        display: none;
+}
+}
 
 main {
     min-height: 300px;
