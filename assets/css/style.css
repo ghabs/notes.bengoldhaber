@@ -216,6 +216,14 @@ img {
     height: auto;
 }
 
+.content p, li {
+    line-height: 1.6rem;
+}
+
+.mn-right, .mn-left {
+    line-height: normal;
+}
+
 .content img {
     display: block;
     margin-left: auto;
