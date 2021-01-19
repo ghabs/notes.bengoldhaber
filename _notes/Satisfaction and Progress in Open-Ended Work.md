@@ -27,11 +27,12 @@ Instead of only using a "butt in chair" heuristic, we can combine this with othe
 For instance, if I have a goal of publishing a novel by the end of the year, and I've been putting my butt in the chair repeatedly, I should reflect on the progress I've made. If the daily execution tasks aren't coalescing into a chapter, I might shift my focus to another chapter.
 
 From this philosophy the author has created an approach where:
-        - He begins each day by selecting some action-oriented goals that are in service of broader achievement-oriented goals. This is the time for brief deliberation.
-        - Once the day has begun, he suppresses additional planning. He gives himself permission to be satisfied with the day if he spends several hours of focused work on the action oriented goals.
-        - He conducts Weekly Reviews to assess his progress towards the broader goal. In this practice he reflects on what went well and what should be adjusted for next week.
-        - Monthly, and at the conclusion of an achievement oriented goal, he reflects on the bigger picture, and his [[longterm]] plan and roadmap.
-            - He might use others roadmaps as references, such as the IDEO product design roadmap.
+
+- He begins each day by selecting some action-oriented goals that are in service of broader achievement-oriented goals. This is the time for brief deliberation.
+- Once the day has begun, he suppresses additional planning. He gives himself permission to be satisfied with the day if he spends several hours of focused work on the action oriented goals.
+- He conducts Weekly Reviews to assess his progress towards the broader goal. In this practice he reflects on what went well and what should be adjusted for next week.
+- Monthly, and at the conclusion of an achievement oriented goal, he reflects on the bigger picture, and his [[longterm]] plan and roadmap.
+- He might use others roadmaps as references, such as the IDEO product design roadmap.
 
 The [[mindset]] of open ended work is gentler, more enigmatic than execution mode, and occasionally provides amazing moments of clarity and insight.
 
