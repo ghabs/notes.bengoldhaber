@@ -4,11 +4,11 @@ title: Recommended Essays
 tags: recommended
 ---
 
-This is an in-progress collection of some of my favorite online essays.
+This is an in-progress collection of some of my favorite online essays. These tend to either be motivational or contain ideas I return to frequently - I compiled it by setting a five minute timer and writing everything that came to mind. I add to it every so often.
 
-- [You and your research](https://www.cs.utexas.edu/users/dahlin/bookshelf/hamming.html)
+- [You and your research](https://archive.vn/stl29)
 
-- [Life is Short](http://paulgraham.com/vb.html)
+- [Life is Short](https://archive.vn/ar3Gh)
 
 - [SSC Gives a Graduation Speech](https://archive.vn/NjBEt)
 
