@@ -15,4 +15,4 @@ A joint statement from several moral philosophers in 2010 on what they believed 
 - There is no single part of the brain responsible for morality
 - Morality varies across individuals and cultures
 - Moral systems support human flourishing to varying degrees
-    - Different systems support different levels of trust, [[cooperation]], and promotion of values. On this basis it's possible to make judgements between moral systems, though 
+    - Different systems support different levels of trust, [[cooperation]], and promotion of values. On this basis it's possible to make judgements between moral systems. 

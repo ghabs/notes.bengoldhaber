@@ -1,9 +1,9 @@
 ---
 tags: principles circling
 ---
-Use the first person instead of the second
+**Note: preliminary, not settled**
 
-Recently, while Circling, a friend expressed a conviction that it would be better for me to own my thoughts and feelings by using language that expresses those thoughts and feelings as my own. In particular if I use second person hypotethicals, I'm distancing myself from my actual beliefs.
+Recently a friend expressed a conviction that it would be better for me to own my thoughts and feelings by using language that expresses those thoughts and feelings as my own. In particular if I use second person hypotethicals, I'm distancing myself from my actual beliefs.
 
 Compare these two statements:
 
@@ -12,7 +12,7 @@ Compare these two statements:
 
 The second statement is more direct and more honest. The first feels, to me, like I'm trying to sneak in my thoughts and opinions in an indirect manner, that I'm hiding within a thought experiment my true habits.
 
-This is a tough habit to break - when writing this I had to remove several "you's" that seemd to magically appear. I also frequently engage in this type of second person language because sometimes I want to sneak in my true beliefs in a diplomatic, deft manner to avoid conflict. However I now believe it's good to have a [[bias towards radical transparency]], and the language I use externally and internally should mirror that.
+This is a tough habit to break - when writing this I had to remove several "you's" that seemd to magically appear. I also frequently engage in this type of second person language because I want to sneak in my true beliefs in a diplomatic, deft manner to avoid conflict. However I now believe it's good to have a [[bias towards radical transparency]], and the language I use externally and internally should mirror that.
 
 **Related Open Questions:**
 

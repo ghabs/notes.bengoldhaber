@@ -5,7 +5,7 @@ tags: book negotiating
 - Author:: Chris Voss
 
 ## Notes
-- It's interesting to see how much overlap there is between Circling and hostage negotiation.
+- It's interesting to see how much overlap there is between relational meditations and hostage negotiation.
 - The right to say no, the right to veto, is crucial. People will fight way longer in a negotiation to preserve their right to say no. For instance if a hostage negotiator comes in and demands surrender, it creates a longer standoff. Giving them the right to say no, to preserve their [[Sovereignty]], is important. 
 - Starting with no - for instance calmly stating no, lets them hear it and opens up the door for them to say it. Counterintuitively it can be very helpful.
 - Train yourself to hear no as other than final. Reframe it as:
