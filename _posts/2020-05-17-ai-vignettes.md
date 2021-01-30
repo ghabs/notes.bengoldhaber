@@ -4,7 +4,7 @@ title: AI Vignettes
 tags: ai fiction recommended
 ---
 
-It's difficult to imagine what the world would look like if we do achieve some extra-ordinary AI tech. For instance when we say AI in the next ten years will be able to drive a truck cross-country, what does that really imply about the state of the world? It might mean that there's mass unemployment because a steady job has been automated, or it might mean greater material abundance as costs for transport are driven down.
+It's difficult to imagine what the world would look like if we do achieve extra-ordinary AI tech. For instance when we say AI in the next ten years will be able to drive a truck cross-country, what does that really imply about the state of the world? It might mean that there's mass unemployment because a steady job has been automated, or it might mean greater material abundance as costs for transport are driven down. Maybe both.
 
 These are the types of questions that speculative fiction - aka SciFi - tries to tackle. Given this change in science or technology, what does society look like as a result? 
 
@@ -15,6 +15,6 @@ I participated in a writing workshop with [AI Impacts](https://aiimpacts.org/) w
 - [Skin Deep](https://bengoldhaber.com/posts/skin-deep/)
 - [Terms of Service](https://bengoldhaber.com/posts/tos/)
 
-I don't think either will be wining a Hugo, but I quite enjoyed the experience and I do think I gained something valuable from trying to **actually** visualize and conceive of what dramatic development in AI could look like (even with the entertainment bias I added). I don't think that this type of fiction writing should be compared to rigorous forecasts - it serves a different purpose, and it would be bad if stories - even if they're smart stories, replaced more formalized models. Rather I think it's a good way to get an intuitive feel for the models. An additional approach, that Daniel Kojokatjlo came up with, is generating random parameters for a model of technology development, and then post-hoc explaining in fictious prose how that trend happened
+I don't think either will be wining a Hugo, but I quite enjoyed the experience and I do think I gained something valuable from trying to **actually** visualize and conceive of what dramatic development in AI could look like (even with the entertainment bias I added). I don't think that this type of fiction writing should be compared to rigorous forecasts. They serves a different purpose, and it would be bad if stories, even smart stories, replaced more formalized models. Rather it's a good way to get an intuitive feel for what the models predict. Taking this approach a step further, Daniel Kojokatjlo proposes generating random parameters for a model of technology development, and then post-hoc explaining in fictious prose how that trend happened.
 
 I recommend setting a 60 minute timer and taking a crack at it yourself!
