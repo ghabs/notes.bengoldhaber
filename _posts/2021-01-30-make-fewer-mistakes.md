@@ -13,7 +13,7 @@ Making fewer mistakes feels related to the theme I set for myself in 2020, [[Slo
 
 Related: 
 - Tyler Cowen in [[Average is Over]], notes that "most [Chess] games are decided on the basis of the accumulation of advantages, and the level of error is fairly well predicted by the relative skills of the players". 
-- Dan Luu observes that in "every activity I've participed in where it's possible to get a rough percentile ranking, people who are 95%-ile constantly make mistakes..." and in Overwatch in particular at that rank "the vast majority of players will pretty much constantly make basic game losing mistakes".
+- Dan Luu [observes](https://archive.vn/siizR) that in "every activity I've participed in where it's possible to get a rough percentile ranking, people who are 95%-ile constantly make mistakes..." and in Overwatch in particular at that rank "the vast majority of players will pretty much constantly make basic game losing mistakes".
 
 Addendum: 
 So far the main thing that has helped is the simplest - going in with this [[mindset]]. Other ideas for making fewer mistakes:
