@@ -17,5 +17,5 @@ Many productivity rituals - like a writer putting on a specific song before they
 I'm interested in this because I think mindsets are often overlooked by standard productivity advice. As Suchman notes in [[Plans and Situated Actions]] human behavior is rarely the result of the "classical rationalist" approach where a person 1.) thinks up a plan 2.) executes the plan. Rather we draw upon the context that we're in, and the rich awareness of the world that provides, to employ plans as one of many mental tools. So getting into the right mental context, the one which fits the task and the goal is key for taking the right actions.
     [[I bet for most knowledge work it is in general more effective to get in the appropriate mindset than it is to try and execute the right plan.::rmn]]
 
-Mental moves to make it easier to smoothly transition into a new mindset, or let an old one go if it's no longer appropriate to the situation, are valuable. I suspect a lot of the value of meditation comes from making it easier to transition between mindsets.
+Mental moves and [[Algorithms of Thought]] that make it easier to smoothly transition into a new mindset, or let an old one go if it's no longer appropriate to the situation, are valuable. I suspect a lot of the value of meditation comes from making it easier to transition between mindsets.
 
