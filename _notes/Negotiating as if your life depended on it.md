@@ -23,8 +23,7 @@ tags: book negotiating
 - People are driven by the need to feel safe and secure, and the need to feel in control. Getting them to yes is a matter of working with them through their perspective, so they stay in control.
 - Gun for a yes off the bat leaves people defensive, wary, and skittish.
 - Letting them stay in control - by asking "what do you want me to do" - is effective, especially paired with letting them say "no" at the start as they're also making the decisions.
-- The words you want to hear are "That's right", not yes.
-- "that's right" can be the start of an emotional release. I
+- The words you want to hear are "That's right", not yes. "That's right" can be the start of an emotional release. 
 - Techniques for active listening:
     - Effective Pauses
     - Mirroring
