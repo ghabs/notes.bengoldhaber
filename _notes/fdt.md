@@ -10,4 +10,9 @@ Correct decision making centers on choosing the output of a decision function, i
 
 My interpretation is this lets an agent be self-reflective. In the [[prisoner's dilemma]] an FDT agent faced with its twin can reason that if its algorithm outputs cooperate, that's the best case, because the twin will do the same.
 
+Q: Is FDT just CDT but with the ability to self-modify?
+Q: I had some impression that this theory was about consistency across time - something like I'm setting the policy for all future Bens if I make a choice in a certain way. I don't immediately see how thats the case. Am I mistaken?
+
 - [Reference Paper](https://arxiv.org/pdf/1710.05060.pdf) 
+- [Blog post on FDT](https://intelligence.org/2017/10/22/fdt/)
+
