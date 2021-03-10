@@ -4,6 +4,7 @@ title: Newsletters
 tags: recommended 
 ---
 __Last updated March 9th, 2021__
+
 Newsletters I read: 
 
 - Money Stuff (Matt Levine)
@@ -25,5 +26,6 @@ Newsletters I read:
 - Tim Ferris 
 - Clearer Thinking (Spencer Greenberg)
 - Scholar's Stage (Tanner Greer)
+- Future of Coding
 
 [Also I appreciate recommendations for what I should be reading](mailto:goldhaber.ben@gmail.com)!
