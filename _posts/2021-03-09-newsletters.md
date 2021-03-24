@@ -3,7 +3,7 @@ layout: post
 title: Newsletters
 tags: recommended 
 ---
-__Last updated March 9th, 2021__
+__Last updated March 24th, 2021__
 
 Newsletters I read: 
 
@@ -11,6 +11,7 @@ Newsletters I read:
 - Reactions (Ross Douthat)
 - Astral Codex Ten (Scott Alexander)
 - Applied Divinity Studies
+- Fantastic Anachronism
 - Import AI (Jack Clark)
 - Rationally Speaking (Julia Galef)
 - The Diff (Byrne Hobart)
@@ -27,5 +28,6 @@ Newsletters I read:
 - Clearer Thinking (Spencer Greenberg)
 - Scholar's Stage (Tanner Greer)
 - Future of Coding
+- Policy.ai (CSET)
 
 [Also I appreciate recommendations for what I should be reading](mailto:goldhaber.ben@gmail.com)!
