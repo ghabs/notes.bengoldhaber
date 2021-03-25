@@ -9,8 +9,7 @@ A key insight is that FDT incorporates the idea of [[embedded agency]] into deci
 
 For example, in the classic [[prisoner's dilemma]] game, CDT agents using the same decision making process always choose to defect, as they are identifying which action that they can take (while holding the other agent's actions as fixed). Two FDT agents, running the same algorithm, can identify that they are using the same algorithm and, realizing the logical dependency, set that to cooperate, maximizing payoff.
 
-![image-20210324122317566](/Users/bengoldhaber/Library/Application Support/typora-user-images/image-20210324122317566.png)
-
+![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fben%2FRErQs6g283.png?alt=media&token=f31ea875-272d-4b6b-986c-0d653dfcf5bf)
 *Image from [FDT in an Evolutionary Environment](https://arxiv.org/pdf/2005.05154.pdf)*
 
 This extends to cases where one agent predicts another agent's choices, which creates a logical dependency between them. For instance, [Parfit's Hitchhiker](https://arbital.com/p/parfits_hitchhiker/), a thought experiment involving murdering hitchhikers:
@@ -27,4 +26,4 @@ An FDT agent outperforms CDT agents because it can recursively reason about the 
 
 - [Functional Decision Theory: A New Theory of Instrumental Rationality](https://arxiv.org/pdf/1710.05060.pdf) 
 
-- [FDT in an Evolutionary Environment](
+- [FDT in an Evolutionary Environment](https://arxiv.org/pdf/2005.05154.pdf)
