@@ -44,7 +44,7 @@ I also wrote a [tweet storm on the cultural history of divination](https://twitt
 
 [Chef](https://g.co/kgs/4KsZVY): Really nice movie. Not sure how to describe it, but if you're interested in an indie low-conflict movie where Jon Favreau makes food, this is for you.
 
-[Twilight Imperium 4](https://steamcommunity.com/sharedfiles/filedetails/?id=1288687076): I mentioned a few newsletters ago I've been playing a lot of TI4; I've also been listening to [great TI4 podcasts](http://spacecatspeaceturtles.com/). If you want to play a game with me - or learn to play! - let me know.
+[[Twilight Imperium 4]]: I mentioned a few newsletters ago I've been playing a lot of TI4; I've also been listening to [great TI4 podcasts](http://spacecatspeaceturtles.com/). If you want to play a game with me - or learn to play! - let me know.
  
 
 As always I love to hear from folks, drop me a line to discuss any of the above or something else.

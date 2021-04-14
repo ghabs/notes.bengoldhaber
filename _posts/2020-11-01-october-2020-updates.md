@@ -19,7 +19,7 @@ So I'm expecting a largely 'uneventful' election. And if I'm wrong, well, the ne
 
 My presentations: A highlight of the last month was getting to present at the [Actions Towards Progress](https://bengoldhaber.com/actions-progress-2020) and [Change++](https://bengoldhaber.com/posts/changeplusplus) conferences on business lifelogging and simulations, respectively.
 
-[Twilight Imperium 4](https://g.co/kgs/Y7rpP1): I've been playing this board game religiously for the past month. I dream about it. You can play online with Tabletop Simulator, and if you do you should let me know. 
+[[Twilight Imperium 4]]: I've been playing this board game religiously for the past month. I dream about it. You can play online with Tabletop Simulator, and if you do you should let me know. 
 
 [Tinker, Tailor, Soldier, Spy](https://g.co/kgs/pwPnyx): Understated and compelling spy movie. Slow pacing that really draws you in.
 
